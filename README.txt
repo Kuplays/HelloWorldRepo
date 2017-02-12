@@ -1,0 +1,1 @@
+THIS IS A SAMPLE README for new UBUNTU on usb
